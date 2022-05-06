@@ -38,7 +38,7 @@ You can run our python deep and machine learning model by running the following:
 ```bash
 cd src
 # Machine learning algorithms
-python ml_algorithm.py
+python ml_algorithms.py
 # PyTorch LSTM
-python run_lstm.py
+python demand_prediction.py
 ```
