@@ -1,4 +1,7 @@
 # Price Forecasting and System Direction Determination in the Balancing Power Market
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 As we approach real-time, we want to develop a model that accurately forecasts the price formed in the
 equilibrium market based on the conditions of a particular day and day-ahead market forecasts.
 This project aims to develop balance, price, and demand forecasting models focusing on renewable energy sources. While also examining the day-ahead electricity generation and the output of these renewable energy sources by considering the changeable weather conditions.
@@ -39,6 +42,3 @@ python ml_algorithm.py
 # PyTorch LSTM
 python run_lstm.py
 ```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
