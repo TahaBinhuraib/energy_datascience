@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Usage
 ### Jupyter Notebooks
 * [EDA](EDA.ipynb) Exploratory data analysis
-* [Pytoch-LSTM](lstm.ipynb)
+* [PyTorch-LSTM](lstm.ipynb)
 * [Keras-LSTM](keras_bidirectional_lstm.ipynb)
 * [Up-counts](up_counts.ipynb) Balance market direction
 
